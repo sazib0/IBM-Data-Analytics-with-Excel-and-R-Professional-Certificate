@@ -1,6 +1,6 @@
  <div align="center">
   
-# IBM-Data-Analytics-with-Excel-and-R-Professional-Certificate
+# IBM Data Analytics with Excel and R Professional Certificate
 
 ```
   
